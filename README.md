@@ -26,6 +26,9 @@ Pretty much, all the RFCs are stored in this "repository", pretty much a shared 
 9. When the story is accepted in, the pull request will be "merged" into this repository and a new issue will be created to indicate that the story needs to be implemented into the game.
 10. Once the story is implemented (the dialogs are all coded into the development code), the issue will be closed and just wait for the release!
 
+# I don't want to spoiler my RFC!!
+That's fine! If that's the case, please send your documents to Fiana (emuu otorii#3017) on Discord or email.
+
 # Credits
 RFC templates are adapted from [Rust RFCs](https://github.com/rust-lang/rfcs/blob/master/0000-template.md)
 
