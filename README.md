@@ -14,6 +14,7 @@ Pretty much, all the RFCs are stored in this "repository", pretty much a shared 
 
 1. Create an account on GitHub.
 2. Go back to this repository and click the fork button:
+
 ![image](https://user-images.githubusercontent.com/66000635/207864963-e5efe298-e5d9-45c1-aa19-645b2779e356.png)
 3. Voila! A fork repository can be found 
 4. Copy and paste the contents of [0000-new-story-plot.md] file to the [stories](stories) folder. That's more likely what you are looking for if you're looking to introduce a new story plot.
