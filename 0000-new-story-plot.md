@@ -25,7 +25,7 @@ This is the technical portion of the RFC. Explain the design in sufficient detai
 
 - All plot holes in the story plot is filled up.
 - We have a good direction on how to delive the story to the user.
-- If you have a working draft of the story plot, please either write them here, or save it as a PDF and save it on [](attachments/0000-attachment-name.extension). 
+- If you have a working draft of the story plot, please either write them here, or save it as a PDF and save it on [attachments/0000-attachment-name.extensio](attachments/0000-attachment-name.extension). 
 
 
 # Drawbacks
